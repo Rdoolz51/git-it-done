@@ -1,0 +1,7 @@
+{
+    "html.format.wrapAttributes": "force-aligned",
+    "darkSynthwave84.brightness": 1.0,
+    "prettier.configPath": ".prettierrc",
+    "liveServer.settings.root": "/dist",
+    "editor.formatOnSave": true
+}
